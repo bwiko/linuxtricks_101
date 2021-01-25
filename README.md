@@ -5,4 +5,4 @@ Feel free to improve with your tricks and ways !
 
 Content: 
 
-* [Tmux](https://github.com/bwiko/linuxtricks_101/Tmux/README.md)
+* [Tmux](https://github.com/bwiko/linuxtricks_101/Tmux/)
